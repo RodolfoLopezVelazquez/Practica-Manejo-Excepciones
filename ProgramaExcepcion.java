@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ProgramaExcepcion {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Introduce un valor numérico: ");
+        System.out.print("Introduce un Numero : ");
         double numero = scanner.nextDouble();
 
         try {
